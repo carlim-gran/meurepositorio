@@ -2,7 +2,7 @@
 Write-Host "-----------------------------------------" -ForegroundColor Cyan
 Write-Host "Hello, Hackers do Bem!" -ForegroundColor Green
 Write-Host "Este é um script nativo em PowerShell." -ForegroundColor Yellow
-Write-Host "Dando os primeiros passos em Cibersegurança." -ForegroundColor Cyan
+Write-Host "Primeiros passos em Cibersegurança." -ForegroundColor Cyan
 Write-Host "-----------------------------------------" -ForegroundColor Cyan
 
 # Exibe a data e o nome do usuário atual
